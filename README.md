@@ -1,0 +1,1 @@
+# simpleinheri.c-
